@@ -1,0 +1,14 @@
+5
+s
+a
+d
+f
+g
+7
+a-s
+s-d
+d-f
+f-g
+a-f
+d-g
+s-g
